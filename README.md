@@ -126,5 +126,3 @@ Networkwalks-Week4-Mediroza-Pentest/
     ├── 06-staff-schema.png
     └── 07-shareholder-schema.png
 ```
-
-**Reference:** Networkwalks, *Week 4 — Penetration Testing Project: Mediroza General Hospital* (provided project brief). Written independently from the investigator's supplied screenshots, with the peer GitHub walkthrough used only as a comparison reference.
